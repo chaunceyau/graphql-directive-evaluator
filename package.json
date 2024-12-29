@@ -1,0 +1,15 @@
+{
+  "name": "graphql-directive-eval",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@graphql-tools/schema": "^10.0.13",
+    "graphql": "^16.10.0"
+  }
+}
